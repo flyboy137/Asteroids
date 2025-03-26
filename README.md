@@ -16,21 +16,32 @@ Disket-Mono-Regular, by Mariano Diez
 Audio
 -----
 saucer_move, by Slot machine winnder from Uppbeat
+
 hyper_jump,  Repeating arcade beep from mixkit
+
 game_over,   Arcade game retro from Uppbeat
 
 Others from multiple free sound download web sites
+
 - Space Invader Sounds : https://www.classicgaming.cc/classics/space-invaders/sounds
+- 
 - mixkit : https://mixkit.co/free-sound-effects/arcade/
+- 
 - Pixabay : https://pixabay.com/sound-effects/search/arcade/
+  
   
 ⚠️ Usage Restrictions
 ❌ No commercial applications
+
 ❌ No resale or redistribution of assets
+
 ❌ No derivative works containing protected assets
+
 ✅ Personal/non-commercial use permitted
+
 
 📧 Contact
 For licensing inquiries regarding third-party assets, please contact the respective copyright owners directly. 
+
 For project-specific questions: vlau216@gmail.com
 
