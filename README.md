@@ -10,6 +10,7 @@ This project incorporates copyrighted materials that belong to their respective 
 Fonts
 -----
 Charge Vector Font,  by Chequered Ink :  http://chequered.ink/font-license
+
 Disket-Mono-Regular, by Mariano Diez
 
 Audio
