@@ -1,4 +1,9 @@
-A classic Asteroids game with some changes. the project is made with Python 3.12 and Raylib 5.50
+Overview
+--------
+"Asteroids Reimagined" is a contemporary adaptation of the iconic 1979 arcade classic, rebuilt using Python 3.12 and Raylib 5.50. 
+This project retains the core mechanics of dodging and destroying asteroids while introducing fresh gameplay elements, enhanced visuals, 
+and modernized controls. Designed for both nostalgia enthusiasts and new players, it showcases the flexibility of Python and Raylib in 
+2D game development.
 
 🚧 Important Legal Notice
 This project is licensed for personal and non-commercial use only. Commercial use, redistribution, or modification of any assets is expressly prohibited 
