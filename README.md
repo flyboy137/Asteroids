@@ -21,9 +21,7 @@ Disket-Mono-Regular, by Mariano Diez
 Audio
 -----
 saucer_move, by Slot machine winnder from Uppbeat
-
 hyper_jump,  Repeating arcade beep from mixkit
-
 game_over,   Arcade game retro from Uppbeat
 
 Others from multiple free sound download web sites
